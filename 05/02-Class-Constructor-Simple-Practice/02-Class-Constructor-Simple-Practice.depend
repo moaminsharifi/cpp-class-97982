@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552387904 source:e:\c++\cpp-97982\05\02-class-constructor-simple-practice\main.cpp
+	<iostream>
+	<string>
+	"Account.h"
+
+1552388050 e:\c++\cpp-97982\05\02-class-constructor-simple-practice\account.h
+
