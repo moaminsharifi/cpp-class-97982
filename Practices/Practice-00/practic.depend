@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554232647 source:c:\users\amin sharifi\desktop\cpp\practic 00\practic\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1554232791 c:\users\amin sharifi\desktop\cpp\practic 00\practic\student.h
+
