@@ -12,7 +12,10 @@ printTen();
 }
 
 int main(){
+    int x = 100;
+
     print();
+
     printTen();
     return 0;
 }
